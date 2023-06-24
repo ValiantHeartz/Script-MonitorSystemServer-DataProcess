@@ -1,0 +1,6 @@
+2022-12-05 11:23:24 b'ASR is Waked,LowPower Mode Stopped\r\n'
+2022-12-05 11:23:35 b'+ERROR: error input format\r\n'
+2022-12-05 11:23:42 b'+ERROR: error input format\r\n'
+2022-12-05 11:23:52 b'+ERROR: error input format\r\n'
+2022-12-05 11:24:00 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2022-12-05 11:24:02 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'

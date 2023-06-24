@@ -1,0 +1,4 @@
+2023-03-03 10:10:21 b'ASR is Waked,LowPower Mode Stopped\r\n'
+2023-03-03 10:10:21 b'Time init success!\r\n'
+2023-03-03 10:10:21 b'Now sleep:279s. \r\n'
+2023-03-03 10:10:31 b'Auto LowPower Mode\r\n'

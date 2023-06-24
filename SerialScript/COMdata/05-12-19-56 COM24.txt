@@ -1,0 +1,4 @@
+2022-05-12 19:56:25 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2022-05-12 19:56:26 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2022-05-12 19:56:46 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2022-05-12 19:57:11 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'

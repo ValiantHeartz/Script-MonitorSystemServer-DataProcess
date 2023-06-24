@@ -1,0 +1,8 @@
+2023-02-25 16:27:13 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:27:14 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:27:43 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:27:44 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:27:46 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:27:46 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:27:46 b'bootloader Rev 1.0\r\n'
+2023-02-25 16:27:48 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'

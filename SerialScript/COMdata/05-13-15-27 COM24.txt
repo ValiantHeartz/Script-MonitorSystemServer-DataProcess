@@ -1,0 +1,3 @@
+2022-05-13 15:27:55 b'into RX mode\r\n'
+2022-05-13 15:28:18 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2022-05-13 15:28:19 b'into RX mode\r\n'

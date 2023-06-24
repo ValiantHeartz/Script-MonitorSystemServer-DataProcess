@@ -1,0 +1,5 @@
+2022-05-12 21:31:39 b'ASR is Waked,LowPower Mode Stopped\r\n'
+2022-05-12 21:31:40 b'Time init success!\r\n'
+2022-05-12 21:31:40 b'Now sleep:21s. \r\n'
+2022-05-12 21:31:50 b'Auto LowPower Mode\r\n'
+2022-05-12 21:31:55 b'Copyright @ 2019 Heltec Automation.All rights reserved.\r\n'

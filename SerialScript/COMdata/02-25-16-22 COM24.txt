@@ -1,0 +1,23 @@
+2023-02-25 16:22:08 b'ASR is Waked,LowPower Mode Stopped\r\n'
+2023-02-25 16:22:16 b'Copyright @2019-2020 Heltec Automation.All rights reserved.\r\n'
+2023-02-25 16:22:18 b'ASR is Waked,LowPower Mode Stopped\r\n'
+2023-02-25 16:22:18 b'Time init success!\r\n'
+2023-02-25 16:22:18 b'Now sleep:2s. \r\n'
+2023-02-25 16:22:20 b'Start running... This device ID is 1, priority is 0.\r\n'
+2023-02-25 16:22:20 b'16 22 20 25 2 2023\r\n'
+2023-02-25 16:22:20 b'\r\n'
+2023-02-25 16:22:20 b'LoRaWAN AS923(AS1:922.0-923.4MHz) Class A start!\r\n'
+2023-02-25 16:22:20 b'\r\n'
+2023-02-25 16:22:20 b'joining...Payload length(115) and fOptLen(0) exceed max size(51 for current datarate DR 2), set datarate to Dr 3\r\n'
+2023-02-25 16:22:21 b"LoRaWanMinimal_APP.send: Bad LoRaMacMcpsRequest status, couldn't send 7"
+2023-02-25 16:22:22 b"LoRaWanMinimal_APP.send: Bad LoRaMacMcpsRequest status, couldn't send 7"
+2023-02-25 16:22:23 b"LoRaWanMinimal_APP.send: Bad LoRaMacMcpsRequest status, couldn't send 1"
+2023-02-25 16:22:24 b"LoRaWanMinimal_APP.send: Bad LoRaMacMcpsRequest status, couldn't send 1"
+2023-02-25 16:22:25 b'LoRa Init Success!\r\n'
+2023-02-25 16:22:25 b'Network will start at: 16 24 20 25 2 23 \r\n'
+2023-02-25 16:22:25 b'Now sleep:116s. \r\n'
+2023-02-25 16:24:21 b'16 24 20 25 2 2023\r\n'
+2023-02-25 16:24:21 b'Networking... This device ID is 1\r\n'
+2023-02-25 16:24:21 b'OpenRadioDuration start!\r\n'
+2023-02-25 16:24:26 b'SelectFatherEndDevice Start!\r\n'
+2023-02-25 16:24:26 b'Now sleep:15s. \r\n'
